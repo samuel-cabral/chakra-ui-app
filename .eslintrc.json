@@ -57,6 +57,9 @@
   "settings": {
     "import/resolver": {
       "typescript": {}
-    }
+    },
+    "import/ignore": [
+      "node_modules"
+    ]
   }
 }
